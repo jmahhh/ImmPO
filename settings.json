@@ -1,0 +1,8 @@
+{
+  "private": {
+    "ethereumURL": "http://127.0.0.1:8545"
+  },
+  "public": {
+    "ethereumURL": "http://127.0.0.1:8545"
+  }
+}
